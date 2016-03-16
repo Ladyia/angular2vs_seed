@@ -1,0 +1,29 @@
+{
+  "name": "seed",
+  "version": "1.0.0",
+  "description": "Angular2 for Visual Studio 2015 seed project",
+  "main": "index.js",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eranbo/angular2vs_seed.git"
+  },
+  "keywords": [
+    "AngularJs2",
+    "VisualStudio",
+    "2015",
+    "seed"
+  ],
+  "author": "eranbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eranbo/angular2vs_seed/issues"
+  },
+  "homepage": "https://github.com/eranbo/angular2vs_seed#readme"
+}
