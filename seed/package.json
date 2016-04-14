@@ -1,6 +1,7 @@
 {
   "name": "seed",
   "version": "1.0.0",
+  "readme": "git+https://github.com/eranbo/angular2vs_seed/blob/master/README.md",
   "description": "Angular2 for Visual Studio 2015 seed project",
   "repository": {
     "type": "git",
@@ -17,14 +18,14 @@
   "bugs": {
     "url": "https://github.com/eranbo/angular2vs_seed/issues"
   },
-  "homepage": "https://github.com/eranbo/angular2vs_seed#readme",
+  "homepage": "https://github.com/eranbo/angular2vs_seed",
   "dependencies": {
-    "angular2": "^2.0.0-beta.9",
-    "es6-promise": "^3.1.2",
-    "es6-shim": "^0.35.0",
-    "reflect-metadata": "^0.1.3",
+    "angular2": "2.0.0-beta.14",
+    "es6-promise": "3.1.2",
+    "es6-shim": "0.35.0",
+    "reflect-metadata": "0.1.2",
     "rxjs": "5.0.0-beta.2",
-    "systemjs": "^0.19.24",
-    "zone.js": "^0.6.4"
+    "systemjs": "0.19.26",
+    "zone.js": "0.6.10"
   }
 }
