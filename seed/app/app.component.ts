@@ -1,4 +1,4 @@
-﻿import {Component} from '../node_modules/angular2/core';
+﻿import { Component } from '@angular/core';
 
 @Component({
     selector: 'my-app',
